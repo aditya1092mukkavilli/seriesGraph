@@ -1,0 +1,35 @@
+body
+{
+  background: #869785;
+}
+h3
+{
+  text-align:center;
+  color:white;
+}
+
+.errors
+{
+    color:red;
+}
+
+#uploadForm
+{
+    width: 35%;
+    padding: 1%;
+    margin: 0 auto;
+    box-shadow: 0 1px 2px 1px rgba(0,0,0,.08), 0 3px 6px rgba(0,0,0,.08);
+    background: #062d4e66;
+}
+
+#chartContainer
+{
+    height: 300px;
+    width: 100%;  
+}
+
+input[type="file"] 
+{
+   color:white;
+   margin-left:2%;
+}
